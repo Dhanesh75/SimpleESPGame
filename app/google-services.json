@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "689970851355",
+    "firebase_url": "https://espgame-2bc2d.firebaseio.com",
+    "project_id": "espgame-2bc2d",
+    "storage_bucket": "espgame-2bc2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689970851355:android:409615812408e5a68a52be",
+        "android_client_info": {
+          "package_name": "esp.com.espgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689970851355-7f6398c59moqqv0lhhhh8rgl10533bma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "esp.com.espgame",
+            "certificate_hash": "d8577394bc669b3c2b50d6a1bedbdd0824643248"
+          }
+        },
+        {
+          "client_id": "689970851355-ndn2q131idtn2t276fucnm3dr8772e76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Your Google API Key Here"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689970851355-ndn2q131idtn2t276fucnm3dr8772e76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
