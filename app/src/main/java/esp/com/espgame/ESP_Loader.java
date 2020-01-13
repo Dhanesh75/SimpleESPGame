@@ -99,7 +99,7 @@ public class ESP_Loader extends AsyncTaskLoader<Integer> {
         //Check if the data is to be updated
         if(doUpdate) {
             updateData();
-            doUpdate = false;
+            //doUpdate = false;
         }
         try {
             /**
