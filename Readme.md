@@ -18,7 +18,7 @@ External Libraries used
 Getting Started
 ---------------
 
-This sample uses the Gradle build system. To build this project, use the
+This app uses the Gradle build system. To build this project, use the
 "gradle build" command and/or use "Import Project" in Android Studio.
 
 Make sure you register the firebase before running.
