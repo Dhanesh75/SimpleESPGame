@@ -37,6 +37,8 @@ public class MainActivity extends AppCompatActivity
      * This is the main activity of the app which handles the
      * questioning and answering of the user.
      */
+     
+    //TAG to print the logs corresponding to this class
     private String TAG = MainActivity.class.getName();
     //Pointer to the current question
     public static int i;
