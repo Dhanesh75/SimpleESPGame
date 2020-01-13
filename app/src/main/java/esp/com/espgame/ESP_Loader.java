@@ -34,6 +34,8 @@ public class ESP_Loader extends AsyncTaskLoader<Integer> {
      * This is the Async Task Class which contains the loader functions
      * for the Main activity which loads the data from background asynchronously
      */
+    
+    //TAG to print the logs corresponding to this class
     private String TAG = ESP_Loader.class.getName();
     //return type of the loader is set to Integer
     private Integer count;
