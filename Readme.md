@@ -48,10 +48,6 @@ If the score count is not updating then kindly restart the app, It will refetch 
 
 You can use your own firebase as backend.
 
-App will work fine even if you dont setup your own firebase
-All you need is a Google Developer Key.
-Insert the key in app/google-services.json and your good to go
-
 Setting up your own Firebase
 ---------
 
